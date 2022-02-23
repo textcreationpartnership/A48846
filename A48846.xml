@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at the funeral of the Right Reverend Father in God, John late Lord Bishop of Chester At the Guildhall Chappel, London, on Thursday the 12th of December, 1672. By William Lloyd, D.D. Dean of Bangor, and one of his Majesty's chaplains in ordinary.</title>
+            <author>Lloyd, William, 1627-1717.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48846</idno>
+            <idno type="STC">Wing L2707</idno>
+            <idno type="STC">ESTC R213713</idno>
+            <idno type="EEBO-CITATION">99826023</idno>
+            <idno type="PROQUEST">99826023</idno>
+            <idno type="VID">30415</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30415)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1797:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at the funeral of the Right Reverend Father in God, John late Lord Bishop of Chester At the Guildhall Chappel, London, on Thursday the 12th of December, 1672. By William Lloyd, D.D. Dean of Bangor, and one of his Majesty's chaplains in ordinary.</title>
+                  <author>Lloyd, William, 1627-1717.</author>
+               </titleStmt>
+               <extent>[2], 55, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Charles Brome,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wilkins, John, 1614-1672 --  Early works to 1800.</term>
+               <term>Bible. --  N.T --  Hebrews XIII, 7 --  Sermons --  Early works to 1800.</term>
+               <term>Funeral sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30415:1"/>
+            <pb facs="tcp:30415:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd at the FUNERAL OF THE Right Reverend Father in God, JOHN Late Lord Biſhop of <hi>Cheſter.</hi>
+            </p>
+            <p>At the <hi>Guildhall</hi> Chappel, <hi>LONDON,</hi> On <hi>Thurſday</hi> the 12<hi rend="sup">th</hi> of <hi>December,</hi> 1672.</p>
+            <p>By <hi>William Lloyd,</hi> D. D.</p>
+            <p>Dean of <hi>Bangor,</hi> and one of His Majeſty's Chaplains in Ordinary.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Charles Brome.</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:30415:2"/>
+            <pb n="1" facs="tcp:30415:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>HEB. XIII. 7.</hi>
+                  </bibl> Remember them which have the Rule over you, who have ſpoken to you the Word of God, whoſe Faith follow, con<g ref="char:EOLhyphen"/>ſidering the end of their converſation.</q>
+            </epigraph>
+            <p>IN handling this Text of holy Scripture, that we may mingle nothing of Human Affections, that our Paſſions may give no In<g ref="char:EOLhyphen"/>terruption to you in hearing, or to me in ſpeaking; I ſhould de<g ref="char:EOLhyphen"/>ſire to ſuppreſs them quite, if it were poſſible. And poſſible it is, where they are ſlightly raiſed, as upon common and ordinary occa<g ref="char:EOLhyphen"/>ſions:
+<pb n="2" facs="tcp:30415:3"/>But where they are ground<g ref="char:EOLhyphen"/>ed and ſtrong, where they dare ar<g ref="char:EOLhyphen"/>gue, and ſeem to have Reaſon on their ſide, as there is too much in ſight for ours; there, I think, it is in vain to endeavour it: The only way in this caſe, is to give them ſome kind of Vent, to diſcharge them in part, and to govern what remains of the Affections.</p>
+            <p>You will, I hope, the rather bear with my Infirmity, that I cannot contain from deploring the Loſs, the irreparable Loſs that we ſuffer, I think all ſuffer, in the Death of this Eminent Perſon. He was the Man in whom his Friends had ex<g ref="char:EOLhyphen"/>perience of much good, and had hopes of much more; not ſo much for his greatneſs or power, as ab<g ref="char:EOLhyphen"/>ſtracting from theſe, for what they found in himſelf, which was a great and manifold Bleſſing to all that lived within his converſation. He
+<pb facs="tcp:30415:3"/>
+               <pb facs="tcp:30415:4"/>
+               <pb n="3" facs="tcp:30415:4"/>was a Father, a Counſellor, a Com<g ref="char:EOLhyphen"/>forter, a Helper, a ſure Friend: He was all they could wiſh in every Relation, and by the courſe of Nature, might have been for many years. But for our ſins, (though for his unſpeakable ad<g ref="char:EOLhyphen"/>vantage) the great and wiſe God was not pleaſed to continue that Bleſſing; He took him out of this World, when for ought we could judge, there was moſt need of ſuch men to live in it; and when we had much reaſon by expect more good than ever by his living in it.</p>
+            <p>Oh the Unſearchable ways and Counſels of God! Oh the Blind<g ref="char:EOLhyphen"/>neſs of Human hopes and expecta<g ref="char:EOLhyphen"/>tions! While we pleaſe our ſelves with the good we have in hand, while we reach out for more, as if there would never be an end, within a few days all withers, all
+<pb n="4" facs="tcp:30415:5"/>vaniſheth to This: We have no<g ref="char:EOLhyphen"/>thing left, but what it grieves us to ſee; We have nothing remains, but what we are willing to be rid of, a poor ſhell of earth, that we make haſte to bury out of our ſight.</p>
+            <p>Yes; of wiſe and good men, which is their Privilege above o<g ref="char:EOLhyphen"/>thers, there remains after Death, a Memory, an Example which they leave behind them, as a ſacred <hi>De<g ref="char:EOLhyphen"/>poſitum</hi> for us to keep and uſe un<g ref="char:EOLhyphen"/>til we ſee them again. Are theſe things Nothing in our ſight? They are above all price in the ſight of God; who, that they may be ſo to us, both telleth us the worth, and recommends them to our e<g ref="char:EOLhyphen"/>ſteem, and requires the fruit of them in many places of Scripture. But in none with more Application our preſent Occaſion, than in my Text. I ſhall ſufficiently Ju<g ref="char:EOLhyphen"/>ſtify
+<pb n="5" facs="tcp:30415:5"/>my choice of it, if I can but make it be underſtood: I ſhall ſhew the full Import of it, in thoſe duties which it contains: I ſhall endeavour to ſtir you up to prac<g ref="char:EOLhyphen"/>tiſe them with reſpect to this pre<g ref="char:EOLhyphen"/>ſent Occaſion.</p>
+            <p>Firſt, For the underſtanding of my Text, we are to look for no help from what goes next before it, or after it: For the whole buſineſs of it is contained within it ſelf. It lies in the heap among other di<g ref="char:EOLhyphen"/>rections, which without any cer<g ref="char:EOLhyphen"/>tain connexion between them, were given by the Writer of this Epiſtle to the <hi>Hebrews,</hi> that is, to thoſe <hi>Jews</hi> who were converted to be <hi>Chriſtians.</hi>
+            </p>
+            <p>For the time when it was writ<g ref="char:EOLhyphen"/>ten, we are certain of this, that it was while <hi>Timothy</hi> lived; for he is mentioned as living in the 24th Verſe of this Chapter. And he being
+<pb n="6" facs="tcp:30415:6"/>there ſaid to have ſuffer'd Impriſon<g ref="char:EOLhyphen"/>ment for the Goſpel, this brings us a little nearer to the knowledge of the time. For then it muſt be after both St. <hi>Paul</hi>'s Epiſtles to <hi>Timothy.</hi> In the laſt of thoſe Epiſtles, which was ſome years after the other, St. <hi>Paul</hi> ſpeaks much of his own Im<g ref="char:EOLhyphen"/>priſonment for the Goſpel: He warns <hi>Timothy</hi> oft, that he muſt ſuffer for the Goſpel: He inſtructs him what to do when God ſhall call him to ſuffer. Not a word of any thing that he had ſuffered already: Nay, he counſels him as a young man that had never been tried. He invites him to <hi>Rome,</hi> which was the great place of tri<g ref="char:EOLhyphen"/>al; in which place, as it appears in the cloſe of this Chapter, <hi>Timo<g ref="char:EOLhyphen"/>thy</hi> did ſuffer that Impriſonment for the Goſpel, from which he was de<g ref="char:EOLhyphen"/>livered, when this Epiſtle was writ<g ref="char:EOLhyphen"/>ten. It appears, that after the E<g ref="char:EOLhyphen"/>piſtle
+<pb n="7" facs="tcp:30415:6"/>to <hi>Timothy,</hi> how long after we know not, he did go to <hi>Rome,</hi> as <hi>Paul</hi> will'd him. How long he ſtaid there we know not, e're he did ſuffer Impriſonment. How long he was in Priſon, we know not, e're he was ſet at liberty. On<g ref="char:EOLhyphen"/>ly we know, it was a conſiderable time, we have reaſon to think it might be ſome years; it might be many years that this Epiſtle was written after the ſecond Epiſtle to <hi>Timothy.</hi>
+            </p>
+            <p>And if ſo, then it was written, not only as <hi>Theodoret</hi> ſays, long after the death of <hi>James</hi> the Bro<g ref="char:EOLhyphen"/>ther of <hi>John:</hi> But account it how you will, this Epiſtle was written, after the death of <hi>James</hi> the Bro<g ref="char:EOLhyphen"/>ther of our Lord. Which <hi>James</hi> being the firſt Biſhop of <hi>Jeruſalem,</hi> and the other <hi>James</hi> an Apoſtle, that is, a Biſhop at large, and both theſe being put to death at <hi>Jeruſa<g ref="char:EOLhyphen"/>lem;</hi>
+               <pb n="8" facs="tcp:30415:7"/>Not to ſearch into Church-Hi<g ref="char:EOLhyphen"/>ſtory for thoſe others of their Order, who died before this time in other places; nor to gueſs how many o<g ref="char:EOLhyphen"/>thers were dead, that are not re<g ref="char:EOLhyphen"/>corded in Church Hiſtory: If we think of no more but theſe two eminent ſervants of Chriſt, we can<g ref="char:EOLhyphen"/>not be to ſeek of the underſtand<g ref="char:EOLhyphen"/>ing of this Text, nor of the ap<g ref="char:EOLhyphen"/>plication to our particular purpoſe. I ſay not, but it may have a more general extent. There is a memo<g ref="char:EOLhyphen"/>ry due, not only to the Apoſtles of Chriſt, and to the Biſhops their Succeſſors; but to all other good Miniſters of Chriſt, yea to all o<g ref="char:EOLhyphen"/>ther exemplary Chriſtians. But if the Apoſtle had meant this only of Biſhops, I cannot gueſs that he would have it expreſt otherwiſe, than he hath done in my Text.</p>
+            <p>To prove this, I muſt have re<g ref="char:EOLhyphen"/>courſe to the Original, and not
+<pb n="9" facs="tcp:30415:7"/>wholly depend upon our <hi>Engliſh</hi> Tranſlation. For that he meant this of Biſhops, it appears not ſuf<g ref="char:EOLhyphen"/>ficiently, and of them being dead, not at all, in our Tranſlation. And yet from the Original, I ſee ſee no reaſon to doubt, that our A<g ref="char:EOLhyphen"/>poſtle in this Text, meant no o<g ref="char:EOLhyphen"/>ther but Biſhops, and thoſe depart<g ref="char:EOLhyphen"/>ed this life.</p>
+            <p>For the Order of Biſhops, it is deſcribed by thoſe act of <hi>Ruling</hi> and <hi>Teaching,</hi> in the words of our Tranſlation; but it is much more expreſly by the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Original. For the meaning of which word, to whom ſhould we reſort, but either to the Greeks, in whoſe Language; or to the Jews, for whoſe immediate uſe this was written? Among the Greeks <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is a general word, it ſignifies Rulers Eccleſiaſtical or Civil. In this Verſe they take it for Eccleſiaſtical
+<pb n="10" facs="tcp:30415:8"/>Rulers: So <hi>Chryſoſtom</hi> on my Text; and <hi>Oecumenious,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Apoſtle ſpeaks of Biſhops in this Verſe. If the Jews would ſay ſo too, what could we have more? They do ſay it, as much as we have reaſon to expect. In their Tradi<g ref="char:EOLhyphen"/>tional Language they call one of our Biſhops <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which in effect is the word in my Text. So then we have the conſent both of Greeks and of Hebrews, that is, of them who had moſt reaſon to know the meaning of the word, that Bi<g ref="char:EOLhyphen"/>ſhops are meant by the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in my Text.</p>
+            <p>That the Apoſtle here ſpeaks not of Living, but of Dead Biſhops: Of them that <hi>Had the Rule</hi> before <hi>that</hi> time, though 'tis rendred, that <hi>Have,</hi> in our Tranſlation; it ap<g ref="char:EOLhyphen"/>peareth by other words in my Text. <hi>Remember them,</hi> ſays the Apoſtle: What, thoſe that are preſent?
+<pb n="11" facs="tcp:30415:8"/>They are not the objects of Me<g ref="char:EOLhyphen"/>mory, but of Senſe. Remember <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the good Biſhops you have had: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>them that have ſpoken to you,</hi> that have ſpoken their laſt, and ſhall ſpeak no more in this world: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>conſidering,</hi> looking back, or looking up to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the end of their converſation.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies the whole courſe of this life, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is the end or period of it. Look back, ſays the Apoſtle, to your Bi<g ref="char:EOLhyphen"/>ſhops deceaſed, <hi>conſider their end,</hi> or <hi>Exit,</hi> or going out of this world.</p>
+            <p>To confirm this, if any doubt, I ſhall deſire him to compare this Verſe with the 17th of this Chapter. In both Verſes the Apoſtle ſpeaks of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, of Biſhops, as I have interpreted and proved. In the 17th he ſhews our duty to the living, <hi>Obey them,</hi> ſays the Apoſtle,
+<pb n="12" facs="tcp:30415:9"/>
+               <hi>and Submit your ſelves, for they watch for your ſouls.</hi> In this Verſe he ſhews our duty to Biſhops de<g ref="char:EOLhyphen"/>ceaſed; <hi>Remember them, and follow their Faith, conſidering the end of their converſation.</hi>
+            </p>
+            <p>I think no more needs to be ſaid, to ſhew the ſcope of my Text, and how applicable it is to our preſent Occaſion. It being clear that the Apoſtle ſpeaks here of Biſhops, and of them being departed this life.</p>
+            <p>I now proceed to the duties re<g ref="char:EOLhyphen"/>quired at our hands; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Remember</hi> and <hi>Imitate.</hi>
+            </p>
+            <p>Firſt, <hi>Remember.</hi> 'Tis a natural deſire that men have, to be re<g ref="char:EOLhyphen"/>membred when they are dead. We do not find it is ſo in any other creature: They deſire to live as long as they can; but for ought we can judge by any Indication, they have no regard to what ſhall
+<pb n="13" facs="tcp:30415:9"/>come after. The reaſon is plain, for their Being determines with their life. But for man, among many other tokens of Immortality, he hath by ſecret Inſtinct, a Na<g ref="char:EOLhyphen"/>tural deſire to be thought of, and ſpoken of in after-times. We ſee this, not only in them that are in<g ref="char:EOLhyphen"/>flamed with the hope of a Future life; but even in thoſe, that, for ought appears to us, know or think little of any more but the Pre<g ref="char:EOLhyphen"/>ſent.</p>
+            <p>What elſe made the <hi>Egyptian</hi> Kings lay out their wealth on Py<g ref="char:EOLhyphen"/>ramids, and the like ſtupendious Buildings? What moved the old <hi>Greeks</hi> and the <hi>Romans,</hi> with ſo much care and expence to leave Sta<g ref="char:EOLhyphen"/>tues and other Monuments, with Inſcriptions of their names? What meant thoſe in the unlettered Na<g ref="char:EOLhyphen"/>tions, by the much harder ſhifts they have made to convey any
+<pb n="14" facs="tcp:30415:10"/>thing of themſelves to Poſterity? I need not ſeek for inſtances of this in remote Times and Coun<g ref="char:EOLhyphen"/>tries, when we ſee 'tis ſo frequent in our Age, and perhaps no where more than in the City; for men of deſign, that think long before<g ref="char:EOLhyphen"/>hand, above all other things, to provide for this kind of Immorta<g ref="char:EOLhyphen"/>lity. Some venture their lives, o<g ref="char:EOLhyphen"/>thers wear out themſelves, they do and ſuffer any thing to get Eſtates: Not for themſelves, that might be happier without them; nor ſo much for their known Heirs, whom they load with Entails, as for men whom they know not, but only hope they will be in after-times. <hi>For their inward thought is, that their houſes ſhall continue for ever, and their dwelling-place to all generations: they call their lands by their own names. This their way is their folly,</hi> and thoſe that ſee it are ſuch
+<pb n="15" facs="tcp:30415:10"/>fools to take after them, ſays <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> Pſalm 49.11.</p>
+            <p>But if this deſign take, it muſt be in ſpite of God, who hath de<g ref="char:EOLhyphen"/>clared it ſhall not do. He will thwart wicked men. They that provide not for the true Immor<g ref="char:EOLhyphen"/>tality, ſhall loſe their deſign in this ſhadow of it. Either their name ſhall be forgotten; God hath threat<g ref="char:EOLhyphen"/>ned <hi>he will cut it off, he will blot it out, their memory ſhall periſh with them:</hi> Or if it ſurvive, it ſhall be to their ſhame, <hi>their name ſhall rot,</hi> Prov. 10.7. What they build for fame, ſhall be like <hi>Abſolom</hi>'s Pillar, which remains to this day; but the paſſers by throw ſtones at it, in deteſtation of his Memory: Such is gererally, though not al<g ref="char:EOLhyphen"/>ways, the curſe of God that purſues wicked men.</p>
+            <p>Whereas contrariwiſe, it is the Promiſe of God to the Juſt, <hi>that
+<pb n="16" facs="tcp:30415:11"/>they ſhall always be had in remem<g ref="char:EOLhyphen"/>brance,</hi> Pſal. 112.6. And that <hi>their memory ſhall be bleſſed as far as known,</hi> Prov. 10.7. Promiſes which, as all other of Temporal things, arr to be underſtood with reſerva<g ref="char:EOLhyphen"/>tion to the Divine Oeconomy, to that wiſdom of God which orders all things in the Government of the world. It becometh not the Majeſty of him that governs all things, to break his courſe, and to work Miracles upon every parti<g ref="char:EOLhyphen"/>cular occaſion. 'Tis enough that he generally provideth that the ſame thing may be done otherwiſe, and declares it to thoſe by whom it ought to be done. If they do it not, if there be a failure in them; his Promiſes is not void, his word is not broken, ſince it was given with that condition: Which being not performed by them that were to have done it, he can make repara<g ref="char:EOLhyphen"/>tion
+<pb n="17" facs="tcp:30415:11"/>to thoſe that ſuffer by it; yea, he hath done it already in this, that he hath given them that which this typifies. And what if they fall ſhort of the ſhadow, when they have the ſubſtance, in a better and true Immortality?</p>
+            <p>The mean while we ſee what is required on our parts. As the ſer<g ref="char:EOLhyphen"/>vants of God, out of that ſtore which he hath given us, We are to pay what he hath promiſed good men. 'Tis that which all naturally deſire, but wicked men ſhall not attain; only to the juſt, God hath promiſed that we ſhall <hi>remember</hi> them, and he commands that we ſhould do it, eſpecially for good Biſhops departed this life.</p>
+            <p>Our remembrance of them doth not differ in kind, but in degree, from what we owe to the memory of others. 'Tis a Duty we are to
+<pb n="18" facs="tcp:30415:12"/>pay them above others, in our Thoughts, in our Affections, in our Words, and in our Actions and Lives.</p>
+            <p>Firſt, In our <hi>Thoughts;</hi> 'tis not a ſimple <hi>remembrance</hi> that God re<g ref="char:EOLhyphen"/>quires; for that being an act of the ſenſitive ſoul, as I conceive, doth not directly fall under pre<g ref="char:EOLhyphen"/>cept. For it is not in our power to remember or forget, either what or when we pleaſe. But it is in our power to do thoſe acts which conduce to the exciting, or to the helping of our memory. This is that which God requires at our hands, that we ſhould endeavour to turn our minds towards ſuch objects, and contemplate in them the gifts and graces of God: That as oft as we think of them we ſhould acknowledge that good which was in them, and which we have received by their means: That we
+<pb n="19" facs="tcp:30415:12"/>ſhould pay them that honourable eſteem which we owe to our ſpiri<g ref="char:EOLhyphen"/>tual Parents and Benefactors.</p>
+            <p>If we think upon them heartily in this manner, it will work ſome<g ref="char:EOLhyphen"/>thing upon our <hi>Affections.</hi> We cannot but be ſenſible of the want of ſuch men, and therefore grieved for our loſs, when they are taken from us; as the <hi>Aſian</hi> Biſhops were at thoſe words of St. <hi>Paul,</hi> when he ſaid, <hi>they ſhould ſee his face no more.</hi> Though God intended it for their gain, whom he takes to himſelf, and he takes them in that time, which ſuits beſt with their Circum<g ref="char:EOLhyphen"/>ſtances: Yet even then, we have cauſe to grieve for our ſelves, and for the preſence and uſe of ſuch men. How much more, when for ought we know, they are taken away for our ſins? When for ought we know, it was becauſe the age
+<pb n="20" facs="tcp:30415:13"/>was not worthy of them? For ought we know, 'tis in order to ſome Judgment of God, which will come the ſooner when they are gone, when we have filled up the meaſure of our iniquities?</p>
+            <p>When <hi>Elijah</hi> was taken away in a very evil age, <hi>Eliſha</hi> cried out, <hi>O my Father, my Father, the Chariots and Horſemen of Iſrael!</hi> What will become of <hi>Iſrael</hi> now thou art gone? We dare not think ſo highly of any one man. We have no ſuch cauſe to deſpond of our Nation. When it is bad, we are to do our parts to make it bet<g ref="char:EOLhyphen"/>ter, to pray that God would ſend more Labourers into his Harveſt, that he would double his gifts and bleſſings on thoſe that are left.</p>
+            <p>And for thoſe we have loſt, we muſt reſign them to God; both ac<g ref="char:EOLhyphen"/>knowledging his bounty in giving them to us, and ſubmitting to his
+<pb n="21" facs="tcp:30415:13"/>Will, in taking them to himſelf. So St. <hi>Bernard</hi> on the death of his Bro<g ref="char:EOLhyphen"/>ther <hi>Gerard, Lord,</hi> ſays he, <hi>thou haſt given, and thou haſt taken away; though we grieve that thou haſt ta<g ref="char:EOLhyphen"/>ken away, yet we cannot forget that thou didſt give him.</hi> Yea, we owe not only ſubmiſſion to God, but thankfulneſs too for their ſakes who are delivered by this means from ſo great and ſuch manifold evils, as continually hover about us in this life. From ſickneſs and pain, from labour and danger, from ſor<g ref="char:EOLhyphen"/>row, and fear, and care, and what not? Being delivered from Sin which is the Cauſe, and from that Fleſh which is the Center of all this.</p>
+            <p>They are paſt all evils elſe, that have overcome Death: They leave ſorrow to us, who call our ſelves the living: Their life, the only true life, is immutable Joy, eter<g ref="char:EOLhyphen"/>nal
+<pb n="22" facs="tcp:30415:14"/>Reſt, Peace, and Felicity.</p>
+            <p>Which if we ſeriouſly believe, if we deſire to be with them, we cannot ſorrow for our loſs, with<g ref="char:EOLhyphen"/>out joy for their gain, and thankſ<g ref="char:EOLhyphen"/>giving on their behalf, to that good God, <hi>who hath given them the victo<g ref="char:EOLhyphen"/>ry through our Lord Jeſus Chriſt.</hi>
+            </p>
+            <p>But thus much we owe upon the death of every true Chriſtian, tho' of never ſo mean a rank and con<g ref="char:EOLhyphen"/>dition. We are to be thankful to God for his mercies, and to pro<g ref="char:EOLhyphen"/>feſs it, as we are taught in the Offices of our Church: which have the ſame words of burial for the meaneſt of our Communion, as for thoſe that are higheſt in their Graces and Gifts.</p>
+            <p>But there is a remembrance in Words that is due to theſe, and not to the other; namely, the due praiſe of thoſe their excellent Graces and Gifts; which though they have
+<pb n="23" facs="tcp:30415:14"/>not of themſelves, but through the bounty and liberality of God, who is therefore to be chiefly reſpected and glorified in all the praiſe that we give to his creatures: Yet ſince he is pleaſed to do them this ho<g ref="char:EOLhyphen"/>nour above others, and to make choice of them whom he ſo digni<g ref="char:EOLhyphen"/>fies; we are bound to allow it them; we are to follow God's choice, to give them praiſe whom he hath ſo qualified for it. Only with this care, that we do it truly, not to flatter the dead; and profitably, for the example and imitation of the living.</p>
+            <p>We have ſo much reaſon to do this, that they who had only rea<g ref="char:EOLhyphen"/>ſon to guide them, the <hi>Gentiles,</hi> upon the death of any eminent perſons, had Orations made pub<g ref="char:EOLhyphen"/>lickly in their praiſe. The <hi>Jews,</hi> without any particular Law for it, had honour done to the Me<g ref="char:EOLhyphen"/>mory
+<pb n="24" facs="tcp:30415:15"/>of Worthy perſons at their Funerals, 2 <hi>Chron.</hi> 32. <hi>ult.</hi> The Rites of it are partly deſcribed, 2 <hi>Chron.</hi> 16.14. They laid their dead in a bed full of the richeſt perfumes, which alſo were publickly burnt at the Interment. To which I con<g ref="char:EOLhyphen"/>ceive the Preacher alludes, <hi>Eccleſ.</hi> 7.1. where he ſays, <hi>A good name is better than precious oyntment, and the day of ones death than the day of ones birth.</hi>
+            </p>
+            <p>When one cometh into the World, none knows how he may prove; if he do well in it, he goes out with this publick teſtimony. After which the <hi>Jews</hi> never men<g ref="char:EOLhyphen"/>tioned ſuch Perſons without a bleſ<g ref="char:EOLhyphen"/>ſing on their memory.</p>
+            <p>But above all others, the Primi<g ref="char:EOLhyphen"/>tive Chriſtians were very obſervant this way. They ſaw it was the Will of their Lord and Maſter, That the good work which was
+<pb n="25" facs="tcp:30415:15"/>done upon him by <hi>Mary,</hi> ſhould be kept in perpetual memory, and is therefore recorded in the Go<g ref="char:EOLhyphen"/>ſpel. They ſaw how the works of <hi>Dorcas</hi> were ſhewn at her death; the Coats and Garments which ſhe made for the poor. They ſaw what need there was of great Incentives in thoſe days, when Chriſtianity was a moſt dangerous Profeſſion. It is of no ſmall force to make men love a Religion, when they ſee it infuſes excellent Principles, that it excites ſo ſuitable Practices, that it is proof againſt ſuffering and death. And the experience of that power it hath in ſome, pro<g ref="char:EOLhyphen"/>vokes and animates others to the ſame.</p>
+            <p>Upon theſe and the like conſi<g ref="char:EOLhyphen"/>derations, and perhaps with allu<g ref="char:EOLhyphen"/>ſion to that Text, where St. <hi>John</hi> is ſaid to have ſeen the ſouls of the Martyrs under the Altar; They
+<pb n="26" facs="tcp:30415:16"/>had their <hi>Memorias Martyrum,</hi> their places of Worſhip where they placed the Altars over the bodies of their Martyrs. What, with any intention to worſhip the Martyrs? It was ſo ſuggeſted by the Adver<g ref="char:EOLhyphen"/>ſaries, and as vehemently denied by the Chriſtians of thoſe times. By thoſe of <hi>Smyrna,</hi> in the un<g ref="char:EOLhyphen"/>doubted acts of <hi>Polycarpus: We cannot</hi> (ſay they) <hi>worſhip any o<g ref="char:EOLhyphen"/>ther than Chriſt; We love the Mar<g ref="char:EOLhyphen"/>tyrs as being followers of Chriſt; We celebrate the days of their paſſions with Joy; We do it both in remem<g ref="char:EOLhyphen"/>brance of thoſe Champions of God, and to train up and prepare others for the like conflicts.</hi>
+            </p>
+            <p>Beſides this, which was peculiar to the Martyrs, the had a lower degree of remembrance, for Bi<g ref="char:EOLhyphen"/>ſhops and Confeſſors, and all o<g ref="char:EOLhyphen"/>ther eminent perſons departed this life: Whom they not only praiſed
+<pb n="27" facs="tcp:30415:16"/>in Orations at their Funerals, but writ their names in their Diptychs, or two-leav'd Records, which con<g ref="char:EOLhyphen"/>tain in one page all the names of the Living; in the other, the Dead that were of note in the Church.</p>
+            <p>All theſe were recited in the Communion-Service. Where, as the Living for themſelves; ſo for the Dead, came their Friends, and gave Oblations and Alms. Which, before they were diſtributed among the poor, were firſt offered up to God in a prayer, like that which we uſe for the Church Militant here on Earth. Theſe Doles were their only Sacrifices for the dead: Only Alms to the poor, <hi>with which ſacrifices God is well-pleaſed.</hi> And their prayers were not for any de<g ref="char:EOLhyphen"/>liverance from pains; unleſs the Patriarchs, and Prophets, and the Apoſtles, and Virgin-Mother of
+<pb n="28" facs="tcp:30415:17"/>Chriſt, were in the ſame pains too, and needeth the ſame Deliverance: For they were all mentioned alike, and together, as it is to be ſeen in the ancienteſt Liturgies.</p>
+            <p>Among all theſe Innocent Offi<g ref="char:EOLhyphen"/>ces, and Rites of the Primitive Chriſ<g ref="char:EOLhyphen"/>tians, was there any thing of prayer for Souls in Purgatory? Was there any thing of prayer to Saints departed this life? Was there any foundations for thoſe Superſtitious Obſervances, of adoring their Re<g ref="char:EOLhyphen"/>licks, of Proſtration to their Ima<g ref="char:EOLhyphen"/>ges, of Pilgrimage to their Shrines, of making Vows, of ſaying Maſſes, of Offering to them, and the like? The Papiſts ſay there was, they plead the practice of the Church for it, they wreſt places of Scri<g ref="char:EOLhyphen"/>pture to their purpoſe. Nay, the <hi>Rhemiſts</hi> and others, alledge this very Text, without which I ſhould not have mentioned them at this time.</p>
+            <pb n="29" facs="tcp:30415:17"/>
+            <p>But as the Learnedeſt men among themſelves have been ſo juſt not to charge this upon my Text, and ſome of them confeſs they have no ground for theſe things in any one Text of Canonical Scripture: So they would do us but right to ac<g ref="char:EOLhyphen"/>knowledge, That none of theſe things were practis'd for ſome hun<g ref="char:EOLhyphen"/>dreds of years after Chriſtianity came into the world.</p>
+            <p>In thoſe Primitive times all their Offices for the Dead, were, either to give Teſtimony of that Faith in which they died, and that death had not diſſolv'd, their Communion with the Living: Or they were to bleſs God for their holy Life, and happy death: Or to pray to him, not for their deliverance from Pur<g ref="char:EOLhyphen"/>gatory, of which there was no Faith in thoſe times; but for the Increaſe of that Good which they believ'd them to be poſſeſt of already, or
+<pb n="30" facs="tcp:30415:18"/>for the Attainment of that farther good which they thought they were ſure of, namely, for their ſpeedy and happy Reſurrection, for their perfect diſcharge at the day of Judgment, for the Conſum<g ref="char:EOLhyphen"/>mation of their bliſs with their own in the Kingdom of Glory.</p>
+            <p>Not to ſay how the Fathers dif<g ref="char:EOLhyphen"/>fer among themſelves in theſe par<g ref="char:EOLhyphen"/>ticulars; or how many of theſe particulars are omitted in the Ro<g ref="char:EOLhyphen"/>man Church as well as ours; it is enough that here is nothing makes for them, but much againſt thoſe their Errors and Corruptions. All that is agreed on all hands, or that we find in the Practice of the firſt Ages, being ſufficiently contain'd in thoſe Offices of our Church; in the Prayer for the Church-Militant, in the Collect on all <hi>All-Saints</hi> day, and in the Office for the Burial of the Dead; where we pray, <hi>That
+<pb n="31" facs="tcp:30415:18"/>it would pleaſe God of his gracious goodneſs, ſhortly to accompliſh the number of his Elect, and to haſten his Kingdom, that we, with all thoſe that are departed in the true faith of his holy Name, may have our per<g ref="char:EOLhyphen"/>fect conſummation and bliſs, both in body and ſoul, in his everlaſting glory.</hi>
+            </p>
+            <p>Laſtly, <hi>Remembrance</hi> in <hi>Action</hi> is the other duty enjoin'd in my Text, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Imitate their Faith,</hi> that is, their Chriſtian pro<g ref="char:EOLhyphen"/>feſſion and practice, their whole Life and Converſation, according to their own belief of that word which they have ſpoken.</p>
+            <p>The Reaſon of this duty is plain: For it is our buſineſs in this world to recover the Image of God in which he created us: to be like him here in Righteouſneſs and Ho<g ref="char:EOLhyphen"/>lineſs, that we may be like him hereafter in Glory and Happineſs.</p>
+            <pb n="32" facs="tcp:30415:19"/>
+            <p>To this End, God has given us thoſe Lineaments of himſelf, which are written ſufficiently in our Na<g ref="char:EOLhyphen"/>ture, but more fully and diſtinctly in Scripture. In which Scripture, he ſo oft and ſo vehemently re<g ref="char:EOLhyphen"/>quires us, <hi>Be ye Holy, as I am Ho<g ref="char:EOLhyphen"/>ly; be ye Juſt, as I am Juſt; be ye Merciful, as I am Merciful; be ye Pure, as I am Pure; be ye Per<g ref="char:EOLhyphen"/>fect, as your heavenly Father is Per<g ref="char:EOLhyphen"/>fect.</hi>
+            </p>
+            <p>This good Word of God, which was given by the Prophets and A<g ref="char:EOLhyphen"/>poſtles, is ſtill inculcated on us by them <hi>that ſpeak to us the Word of God.</hi> Which Office being prima<g ref="char:EOLhyphen"/>rily of Biſhops, as appears in my Text, They are firſt and above all others to conform themſelves to it, to ſhew others how poſſible and how practicable it is.</p>
+            <p>Our Apoſtle ſuppoſed this in thoſe Primitive Biſhops in my Text.
+<pb n="33" facs="tcp:30415:19"/>God requires it of all that ſuc<g ref="char:EOLhyphen"/>ceed them in the Church. So of <hi>Timothy,</hi> though he were young in Age, yet being in that Place, <hi>Be thou an Example to believers in word, in converſation, in spirit, in faith, in truth,</hi> 1 Tim. 4.12. and in the laſt Verſe, <hi>Take heed to thy Self, and to thy Doctrine: Do this conſtantly and continually, and ſo thou ſhalt ſave both thy ſelf and them that hear thee.</hi>
+            </p>
+            <p>Whether they do this or no, they are our <hi>Teachers</hi> and <hi>Rulers;</hi> therefore in the 17th Verſe of this Chapter, while they live, we muſt <hi>obey</hi> their Word, and <hi>ſubmit</hi> to their Government. When they are dead, both for what they are, and were, we may do well to ſay no ill of them; and ſince we can ſay no good, e'en forget them, and leave them to God.</p>
+            <pb n="34" facs="tcp:30415:20"/>
+            <p>But if they are ſuch as they ought, which the Apoſtle ſuppoſes in my Text, if they live as men that believe themſelves what they ſay: 'Tis our duty not only to <hi>ſubmit</hi> and <hi>obey</hi> them while they live; but alſo to <hi>Remember</hi> them when they are dead: <hi>Remember</hi> them in our <hi>thoughts,</hi> with that honour they deſerve: In our <hi>Af<g ref="char:EOLhyphen"/>fections,</hi> with a due ſenſe of our loſs, and their gain: Remember them <hi>in words,</hi> with the juſt praiſe of their actions and lives: In our prayers to God, with due thank<g ref="char:EOLhyphen"/>fulneſs for their graces and gifts in this life, and for the glory they receive after death: Laſtly, Re<g ref="char:EOLhyphen"/>member to <hi>follow</hi> them in that ho<g ref="char:EOLhyphen"/>ly way, which leads to ſo happy an end: In our Apoſtle's words, <hi>follow their Faith, conſidering the</hi> event, the bleſſed <hi>end of their</hi> good <hi>conver<g ref="char:EOLhyphen"/>ſation.</hi>
+            </p>
+            <pb facs="tcp:30415:20"/>
+            <pb facs="tcp:30415:21"/>
+            <pb n="35" facs="tcp:30415:21"/>
+            <p>What my Text ſays in gene<g ref="char:EOLhyphen"/>ral of Biſhops deceaſed, 'tis moſt eaſy to apply. I know it hath been done all this while, by them that knew the virtuous and great Mind that lately dwelt in this Body. They know the truth of all I ſhall ſay, and much more that might be ſaid in his juſt Commendation. But the little I can bring within the time I have left, being ſaid from many years experience, will at leaſt ſtir up thoſe that knew him not, to en<g ref="char:EOLhyphen"/>quire; and if they find theſe things true, they know their duty of <hi>Re<g ref="char:EOLhyphen"/>membrance</hi> and <hi>Imitation.</hi>
+            </p>
+            <p>I ſhall not be minute, in draw<g ref="char:EOLhyphen"/>ing all I ſay under theſe heads: For I ſpeak to them that can diſtinguiſh, and ſort things, as they belong to the one, or to the other.</p>
+            <pb n="36" facs="tcp:30415:22"/>
+            <p>To begin with the Natural endowments of his Mind; I can<g ref="char:EOLhyphen"/>not think of him without juſt re<g ref="char:EOLhyphen"/>fection upon that Paradox, of the Equality of Souls. He was ſurely a great Inſtance to the contrary, having that largeneſs of Soul in every reſpect, which was much above the rate of ordinary men. He had an Underſtanding that extended to all parts of uſeful Learning and Knowledge; a Will always diſpoſed to Great, and Publick, and Generous things. He had a natural aver<g ref="char:EOLhyphen"/>ſion from all idle ſpeculations, and from the eager purſuit of ſmall and frivolous deſigns. In great matters he judged ſo well, that he was not uſually ſurprized with events. He purſued his in<g ref="char:EOLhyphen"/>tentions with ſuch equalneſs of mind, that he was never car<g ref="char:EOLhyphen"/>ried
+<pb n="37" facs="tcp:30415:22"/>beyond the calmneſs of his Natural Temper, except through his Zeal for Publick Good, or where his Friend was concern<g ref="char:EOLhyphen"/>ed.</p>
+            <p>What he was in his Studied, I have reaſon to know, that have often been tired with ſtudying with him. He was indefatigable, and would have worn himſelf out, if he had not been relieved with multiplicity of buſineſs. How<g ref="char:EOLhyphen"/>ever, he impaired by it, a Body which ſeemed to have been built for a long Age, and contracted thoſe Infirmities that haſtened his Death.</p>
+            <p>The effect of his Studies, in his Preaching and Writings, are ſuf<g ref="char:EOLhyphen"/>ficiently known, and would have been much more, if God had gi<g ref="char:EOLhyphen"/>ven him time.</p>
+            <pb n="38" facs="tcp:30415:23"/>
+            <p>As for his Preaching, it was ſometimes famous near this place, though he ſought rather the pro<g ref="char:EOLhyphen"/>fit, than the praiſe of his hearers. He ſpoke ſolid truth, with as lit<g ref="char:EOLhyphen"/>tle ſhew of Art as was poſſible. He expreſt all things in their true and natural colours; with that aptneſs and plainneſs of Speech, that grave natural way of Elo<g ref="char:EOLhyphen"/>cution, that ſhewed he had no deſign upon his hearers. His plain<g ref="char:EOLhyphen"/>neſs was beſt for the inſtruction of the ſimple; and for the better ſort, who were in truth an Intel<g ref="char:EOLhyphen"/>ligent Auditory, it was enough that they might ſee he had no mind to deceive them. He ap<g ref="char:EOLhyphen"/>plied himſelf rather to their Un<g ref="char:EOLhyphen"/>derſtanding than Affections. He ſaw ſo much of the beauty of Goodneſs himſelf, that he thought the bare ſhewing of it was enough
+<pb n="39" facs="tcp:30415:23"/>to make all wiſe men, as it did him, to be in love with it.</p>
+            <p>In his Writings he was judi<g ref="char:EOLhyphen"/>cious and plain, like one that va<g ref="char:EOLhyphen"/>lued not the circumſtances ſo much as the ſubſtance. And he ſhewed it on whatſoever Argument he undertook; ſometimes beating out new untravell'd ways, ſome<g ref="char:EOLhyphen"/>times repairing thoſe that had been beaten already: No Subject he handled, but I dare ſay is the better for him; and will be the eaſier for them that come after him.</p>
+            <p>If in theſe he went ſometimes beſide his Profeſſion, it was in fol<g ref="char:EOLhyphen"/>lowing the Deſign of it, to make men wiſer and better, which I think is the buſineſs of Univer<g ref="char:EOLhyphen"/>ſal Knowledge. And this he pro<g ref="char:EOLhyphen"/>moted with much zeal and ſin<g ref="char:EOLhyphen"/>cerity, in hope of the great Be<g ref="char:EOLhyphen"/>nefit
+<pb n="40" facs="tcp:30415:24"/>that may accrue to Man<g ref="char:EOLhyphen"/>kind.</p>
+            <p>It was his aim, as in all things, ſo eſpecially in that which, I con<g ref="char:EOLhyphen"/>ceive, is much more cenſured than underſtood; I mean, in the de<g ref="char:EOLhyphen"/>ſign of the Royal Society. He joined himſelf to it with no other end, but to promote Modern knowledge, without any contempt or leſſening of thoſe great men in former times. With due honour to whom, he thought it lawful for others to do that which, we have no reaſon to doubt, they themſelves would have done if they were living.</p>
+            <p>I would not ſeem to excuſe that which deſerveth commenda<g ref="char:EOLhyphen"/>tion and encouragement; or to commend other things for want of Subject in him. Therefore lea<g ref="char:EOLhyphen"/>ving this Theme in better hands,
+<pb n="41" facs="tcp:30415:24"/>I proceed next to ſpeak of his Virtues and Graces; and theſe the rather, as being both to be <hi>remem<g ref="char:EOLhyphen"/>bred</hi> and <hi>followed.</hi>
+            </p>
+            <p>And in ſpeaking of theſe, where ſhall I begin? Nay, When ſhall I end, if I ſay all that may be ſpo<g ref="char:EOLhyphen"/>ken? I think it not worth while to ſpeak of thoſe that are Vulgar, though he had them alſo in no common degree: Nor would I ſeem to make any Virtue a Pro<g ref="char:EOLhyphen"/>priety. But there are thoſe which are not common to many, and were generally acknowledged to be in him; though they appear<g ref="char:EOLhyphen"/>ed not ſo to ſome other men, as they did to thoſe that intimately knew him.</p>
+            <p>His Prudence was great, I think it ſeldom failed in any thing to which he applied himſelf. And yet he wanted that part, which
+<pb n="42" facs="tcp:30415:25"/>ſome hold to be eſſential; he ſo wanted Diſſimulation, that he had rather too much openneſs of heart. It was Sincerity indeed that was Natural to him; he ſo abhorred a Lye, that he was not at all for ſhew; he could not put on any thing that look'd like it. And preſuming the ſame of other men, through exceſs of Benignity, he would be ſometimes deceived, in believing they were what they ſeemed to be, and what he knew they ought to have been.</p>
+            <p>His greatneſs of Mind was known to all that knew any thing of him. He neither eagerly ſought any Dignity, nor declined any Capa<g ref="char:EOLhyphen"/>pacity of doing good. He look'd down upon Wealth, as much as others admire it. He knew the uſe of an Eſtate, but did not co<g ref="char:EOLhyphen"/>vet it. What he yearly received
+<pb n="43" facs="tcp:30415:25"/>of the Church, he beſtowed in its Service. As for his Temporal Eſtate, being ſecured againſt Want, he ſought no farther, he ſet up his Reſt; I have heard him ſay often, <hi>I will be no Richer;</hi> and I think he was as good as his word.</p>
+            <p>As for Revenge, how could it en<g ref="char:EOLhyphen"/>ter into the Breaſt of him that hated nothing but that which makes us hateful to God? I ſay not but he had a ſenſe of Perſonal Injuries; and eſpecially of thoſe that reflect<g ref="char:EOLhyphen"/>ed upon his Name, when they pro<g ref="char:EOLhyphen"/>ceeded from thoſe that had good Names of their own. What others ſaid, he deſpiſed; but by thoſe he would often wiſh he had been bet<g ref="char:EOLhyphen"/>ter underſtood: That he was not, he bore as his Misfortune; he would not requite them with the like, but mention'd them with all due Reſpect, and was always rea<g ref="char:EOLhyphen"/>dy
+<pb n="44" facs="tcp:30415:26"/>to oblige them, and to do them good.</p>
+            <p>Yet it was not ſo deſirable (I ſay not to be his Enemy, for He did not account them ſo, but) to be at thoſe terms with him, as to be his Acquaintance or Friend. They that were never ſo little familiar with him, could not but find as well Benefit as Delight in his Converſation. His Diſcourſe was commonly of uſeful things; it never cauſed trouble or weari<g ref="char:EOLhyphen"/>neſs of the Hearer. Yet he would venture to diſpleaſe one for his good; and indeed he was the man that ever I knew, for that moſt needful and leaſt practiſed point of Friendſhip. He would not ſpare to give ſeaſonable Reproof, and wholſome Advice, when he ſaw occaſion. I never knew any that would do it ſo freely, and
+<pb n="45" facs="tcp:30415:26"/>that knew how to manage that freedom of ſpeech ſo inoffenſive<g ref="char:EOLhyphen"/>ly.</p>
+            <p>It was his way of Friendſhip, not ſo much to oblige men, as to do them good. He did this not ſlightly and ſuperficially, but like one that made it his buſineſs. He durſt do for his Friend any thing that was honeſt, and no more. He would undertake nothing but what well became him, and then he was unwearied till he had effect<g ref="char:EOLhyphen"/>ed it.</p>
+            <p>As he concerned himſelf for his Friend in all other reſpects, ſo eſpecially in that which went neareſt to him of all earthly con<g ref="char:EOLhyphen"/>cernments. He would not ſuffer any Blot to be thrown or to lye upon his Friend's Good Name or his Memory. And that Office I am obliged to requite, in giving
+<pb n="46" facs="tcp:30415:27"/>ſome account of that which has been ſpoken by ſome to his diſad<g ref="char:EOLhyphen"/>vantage.</p>
+            <p>I ſhall neglect, for he did ſo, any frivolous Reports; but that which ſeems to have any weight in it, as far as I have obſerved, is, That he had not that Zeal for the Church, that they would ſeem to have that object this. He ſeemed to look upon the Diſſenters with too much Favour to their Perſons and Ways.</p>
+            <p>As to the Perſons: No doubt that Goodneſs of Nature, that true Chriſtian Principle, which made him willing to think well of all men, and to do good, or at leaſt no hurt to any, might and ought to extend it ſelf to them among others. But beſides, he was inclin'd to it by his Edu<g ref="char:EOLhyphen"/>cation under his Grandfather
+<pb n="47" facs="tcp:30415:27"/>Mr. <hi>Dod,</hi> a truly Pious and Learned Man; who yet was a Diſſenter him<g ref="char:EOLhyphen"/>ſelf in ſome things.</p>
+            <p>Not that he had any delight in contradiction, or could find in his heart to diſturb the Peace of the Church for thoſe matters. He was ſo far from it, that as I have fre<g ref="char:EOLhyphen"/>quently heard from this his Grand<g ref="char:EOLhyphen"/>child and others, when ſome thought their Diſſents ground enough for a War, he declared himſelf againſt it, and confirmed others in their Allegiance: He profeſs'd to the laſt a juſt hatred of that horrid Rebel<g ref="char:EOLhyphen"/>lion. Now his Relation to this Man, and Converſation with thoſe of his Principles, might incline him to hope the like of others of that Way. And when he found them farther off from the Unity of the Church, he might poſſi<g ref="char:EOLhyphen"/>bly overdo, through the Vehemence
+<pb n="48" facs="tcp:30415:28"/>of his deſire to bring them off of their Prejudices, and to reduce them to the Unity of the Church, in which his Grandfather lived and died: Why might he not hope the ſame of other Diſſen<g ref="char:EOLhyphen"/>ters?</p>
+            <p>As for himſelf, he was ſo far from Approving their ways, that in the worſt of times, when one here preſent bewailed to him the Calamities of the Church, and de<g ref="char:EOLhyphen"/>clared his Obedience even then to the Laws of it: He encouraged him in it, he deſired his Friend<g ref="char:EOLhyphen"/>ſhip, and protected both him and many others, by an Intereſt that he had gained, and made uſe of chiefly for ſuch purpoſes.</p>
+            <p>How he demeaned himſelf then, is known in both Univerſities; where he governed with Praiſe, and left a very grateful Remem<g ref="char:EOLhyphen"/>brance
+<pb n="49" facs="tcp:30415:28"/>behind him. How in the next Times ſince, I cannot ſpeak in a better Place. And when I have named this City, and the two Univerſities, I think he could not be placed in a better Light in this Nation. There were e<g ref="char:EOLhyphen"/>nough that could judge, and he did not uſe to diſguiſe himſelf; I appeal to you that converſed with him in thoſe days, What Zeal he hath expreſs'd for the Faith, and for the Unity of the Church: How he ſtood up in defence of the Order and Government: How he hath aſſerted the Liturgy, and the Rites of it: He conformed himſelf to every thing that was commanded. Beyond which, for any man to be vehement in lit<g ref="char:EOLhyphen"/>tle and unneceſſary things, whe<g ref="char:EOLhyphen"/>ther for or againſt them, he could not but diſlike; and as his free
+<pb n="50" facs="tcp:30415:29"/>manner was, he hath oft been heard to call it Fanaticalneſs. How this might be repreſented I know not, or how his deſign of Comprehenſion might be under<g ref="char:EOLhyphen"/>ſtood.</p>
+            <p>Sure I am, that ſince he came in<g ref="char:EOLhyphen"/>to the Government of the Church, to which he was called in his Abſence, he ſo well became the Order, that it out-did the expecta<g ref="char:EOLhyphen"/>tion of all that did not very well know him. He filled his Place with a Goodneſs anſwerable to the reſt of his Life; and with a Prudence above it, conſidering the two Extremes, which were no<g ref="char:EOLhyphen"/>where ſo much as in his Dio<g ref="char:EOLhyphen"/>ceſs. Though he was as before, very tender to thoſe that differed from him; yet he was, as before, exactly conformable himſelf, and brought others to Conformity, ſome
+<pb facs="tcp:30415:29"/>
+               <pb facs="tcp:30415:30"/>
+               <pb n="51" facs="tcp:30415:30"/>Eminent men in his Dioceſs. He endeavoured to bring in all that came within his reach, and might have had great ſucceſs, if God had pleaſed to continue him.</p>
+            <p>But having given full proof of his intentions and deſires, it pleaſed God to reſerve the fruit for other hands, from which we have great cauſe to expect much good to the Church.</p>
+            <p>He was in perfect Health in all other reſpects; when a known In<g ref="char:EOLhyphen"/>firmity, from an unknown cauſe, that had been eaſier to cure, than it was to diſcover, ſtole upon him, and ſoon became in<g ref="char:EOLhyphen"/>curable.</p>
+            <p>He was for many days in a proſpect of Death, which he ſaw as it approached, and felt it come on by degrees. Some days be<g ref="char:EOLhyphen"/>fore he died, he found within
+<pb n="52" facs="tcp:30415:31"/>himſelf, as he often ſaid, <hi>a Sen<g ref="char:EOLhyphen"/>tence of Death.</hi> In all this time, firſt of Pain, then of dreadful Apprehenſions, at laſt in the pre<g ref="char:EOLhyphen"/>ſence of Death, Who ever ſaw him diſmay'd? Who ever found him ſurprized? Or heard a word from him, unbecoming a wiſe man, and a true Chriſtian? It was my infelicity to be ſo en<g ref="char:EOLhyphen"/>gaged, that I could not duly at<g ref="char:EOLhyphen"/>tend him; and ſo deceived with vain hopes, that I believed him not dying, till he was dead. But at the times I was with him, I ſaw great cauſe to admire his Faith towards God, his Zeal for his Church, his Conſtancy of Mind, his Contempt of the World, and his Chearful hopes of Eternity. I have heard much more upon theſe heads, from thoſe that were with him. Some
+<pb n="53" facs="tcp:30415:31"/>of you may have heard other things from other men. It hath been the way of our Adverſa<g ref="char:EOLhyphen"/>ries to entitle themſelves to dy<g ref="char:EOLhyphen"/>ing men, even thoſe, whoſe whole life was a Teſtimony againſt them. Thus, after the Death of our Famous <hi>Jewel,</hi> the Papiſts were pleaſed to ſay, he dyed of their Religion. <hi>Militiere</hi> hath ventured to inſinuate the ſame, of our late King, of bleſſed and glorious Memory. Mens <hi>Tongues</hi> and Pens are their <hi>own,</hi> but leaſt they ſhould abuſe them and you, and the Memory of this worthy Prelate, as they have abus'd o<g ref="char:EOLhyphen"/>thers, (though nothing needs to be ſaid to ſuch groundleſs Ca<g ref="char:EOLhyphen"/>lumnies) I declare, and that up<g ref="char:EOLhyphen"/>on moſt certain grounds, That he died in the Faith of our Lord Jeſus Chriſt, and in the
+<pb n="54" facs="tcp:30415:32"/>Communion of the Church of <hi>England,</hi> as it is by Law eſtabliſh<g ref="char:EOLhyphen"/>ed.</p>
+            <p>He died only too ſoon for the Church, and ſo his Friends: But for himſelf he had lived long enough. He has lived long e<g ref="char:EOLhyphen"/>nough that dies well. For what<g ref="char:EOLhyphen"/>ſoever he wants of that which we call Time, it is added, though it adds nothing to Eternity.</p>
+            <p>As for us that are now to try how we can bear the want of thoſe many bleſſings we enjoyed in him, What ſhall we ſay? We muſt ſubmit to the Will of God. Our Comfort is, that we ſhall follow, and come together again in due time. Till when, Farewel, pious and virtuous Soul, Farewel, great and excellent Man, Farewel, worthy Prelate and faith<g ref="char:EOLhyphen"/>ful Friend! We have thy Me<g ref="char:EOLhyphen"/>mory
+<pb n="55" facs="tcp:30415:32"/>and Example, Thou haſt our Praiſes and out Tears. While thy Memory lives in our Breaſts, may thy Example be fruitful in our lives: That our Meeting a<g ref="char:EOLhyphen"/>gain may be in Joy unſpeakable, when God ſhall have wiped away all Tears from our Eyes.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
